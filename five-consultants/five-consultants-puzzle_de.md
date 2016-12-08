@@ -9,8 +9,7 @@ Fünf neue Consultants sitzen nebeneinander auf der Consultant-Freifläche. Sie 
 7.	Der Consultant, der in der Mitte sitzt, hat schon seinen dritten  Whiskey intus.
 8.	Der Nutzer des Dell Latitude E7470 Ultrabook ist der einzige, der sich mit Caching auskennt.
 9.	Der Consultant, der für Bolts.com arbeitet, sitzt auf dem ersten Platz ganz links.
-10.	Neben dem Consultant, der auf der Suche nach seinem Rollcontainerschlüssel schon die ganze Firma auf den Kopf gestellt hat,  
-    sitzt der einzige im Team, der weiß wie man Chef-Cookbooks schreibt.
+10.	Neben dem Consultant, der auf der Suche nach seinem Rollcontainerschlüssel schon die ganze Firma auf den Kopf gestellt hat, sitzt der einzige im Team, der weiß wie man Chef-Cookbooks schreibt.
 11.	Der Consultant, der nicht ins WLAN kommt, sitzt neben dem Consultant, der sich ums Caching kümmert.
 12.	Der Cloud Experte hat drei leere Bierlaschen vor sich stehen.
 13.	Der Consultant, der für Bolts.com  arbeitet, sitzt neben dem Consultant mit dem Dell Precision 5510.
